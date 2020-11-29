@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>DM324 - Home Page</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+
+    <body>
+
+<nav>
+    <ul>
+        <li ><a href="index.html"  class="active">Home</a></li>
+        <li ><a href="studentlist.html" >Students List</a></li>
+        <li ><a href="new_student.html" >New Student</a></li>
+
+        <li class="nav-right"><a href="sign.html">Logout</a></li>
+    </ul>
+
+
+<nav>
+<hr/>
+<section>
+    <div>
+<h1 class="title"  id="specialTitle">Home</h1>
+
+<h3>Name: sheref kamel murad</h1>
+<h3>ID: 20191953</h1>
+<h3>Email: 20191953@fue.edu.eg</h3>
+</div>
+<section>   
+<hr/>
+<!--footer-->
+
+</body>
+
+</html>
